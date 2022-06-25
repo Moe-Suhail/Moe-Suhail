@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohammed Adil Suhail</h1>
 <h3 align="center">Smart web developer</h3>
 
-- 🌱 I’m currently learning **Js , flutter , odoo ,node js ,react**
 
 - 💬 Ask me about **Anything I know**
 
