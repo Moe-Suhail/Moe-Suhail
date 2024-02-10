@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammed Adil Suhail</h1>
-<h3 align="center">Smart web & mobile developer</h3>
+<h3 align="center">Web Developer</h3>
 
 - 💬 Ask me about **Anything I know**
 
